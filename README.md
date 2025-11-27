@@ -37,5 +37,5 @@ O jogo inclui as seguintes características que demonstram o domínio dos fundam
     ```
 
 ---
-**Desenvolvedor:** [Seu Nome Completo]
+**Desenvolvedor:** Welerson dos Anjos de Oliveira
 **Diferencial:** Fluente em Inglês, com foco em Python e Back-end.
