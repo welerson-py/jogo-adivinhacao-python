@@ -25,7 +25,7 @@ O jogo inclui as seguintes características que demonstram o domínio dos fundam
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/SeuNomeDeUsuario/jogo-adivinhacao-python.git](https://github.com/SeuNomeDeUsuario/jogo-adivinhacao-python.git)
+    git clone [https://github.com/welerson-py/jogo-adivinhacao-python.git](https://github.com/welerson-py/jogo-adivinhacao-python.git)
     ```
 2.  **Navegue até a Pasta:**
     ```bash
